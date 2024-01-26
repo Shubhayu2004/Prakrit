@@ -1,0 +1,52 @@
+{
+   "checksum": "669bfb37c56a0a792f48022e58ae7925",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13313360521602713",
+            "date_last_used": "13334541749508199",
+            "guid": "47f70fca-a892-4c78-8848-0c68637eb840",
+            "id": "7",
+            "name": "Faucet | CoinPayz - Multicurrency Crypto Earning Platform",
+            "type": "url",
+            "url": "https://coinpayz.xyz/faucet"
+         }, {
+            "date_added": "13335303126540426",
+            "date_last_used": "0",
+            "guid": "bc53a53d-80a8-4b57-a6d1-57c0051ee9a6",
+            "id": "8",
+            "name": "FAUCET",
+            "type": "url",
+            "url": "https://faucet.su/index.php"
+         } ],
+         "date_added": "13350660630205142",
+         "date_last_used": "0",
+         "date_modified": "13335303126540426",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13350660630205158",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13350660630205182",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

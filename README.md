@@ -1,12 +1,12 @@
 # Prakrit
 
-ntroduction 
+Introduction 
 
  
 
 These days, in the busy lives of people it is hard to track many things at the same time, specifically the Health and Environment section is hard to keep track of, which will affect the environment indirectly and gradually. 
 
-The (app name) will make sure the person using the application ensures that the user can keep track of and contribute to the environment. This app focuses primarily on the Sustainable Development Goals. 
+Prakrit will make sure the person using the application ensures that the user can keep track of and contribute to the environment. This app focuses primarily on the Sustainable Development Goals. 
 
  
 
@@ -30,7 +30,7 @@ Your application can contribute to promoting responsible consumption by helping 
 
 How does our application work?  
 
-The application when installed by the user, initially asks questions, by which the (name of the app), will get to understand the possible way the user’s lifestyle is. 
+The application when installed by the user, initially asks questions, by which the flutter, will get to understand the possible way the user’s lifestyle is. 
 
  
 

@@ -1,0 +1,60 @@
+{
+   "checksum": "d7f791ccc4f08672a62953aa1d4cd786",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13313360521602713",
+            "date_last_used": "13334541749508199",
+            "guid": "47f70fca-a892-4c78-8848-0c68637eb840",
+            "id": "7",
+            "name": "Faucet | CoinPayz - Multicurrency Crypto Earning Platform",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://coinpayz.xyz/faucet"
+         }, {
+            "date_added": "13335303126540426",
+            "date_last_used": "0",
+            "guid": "bc53a53d-80a8-4b57-a6d1-57c0051ee9a6",
+            "id": "8",
+            "name": "FAUCET",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://faucet.su/index.php"
+         } ],
+         "date_added": "13350660630205142",
+         "date_last_used": "0",
+         "date_modified": "13335303126540426",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13350660630205158",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13350660630205182",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCNWbr0CNAQAAEgAgASoYZUdOaTlZK2NscmIyeDlkRHhNcmlzQT09oAYMErABCAgSqwEKHDZGd08wd1N3VUw0c1p0cUhPWDhWcEwyVzh3RT0SJGJjNTNhNTNkLTgwYTgtNGI1Ny1hNmQxLTU3YzAwNTFlZTlhNhgAIAAoADDKh63qmjE4yYqt6poxQMmKreqaMUocNlRaT0JzbGkzRXJQVTRNVjcxTWFBTHJseEI0PVonIiX/////AAAABP1XZVR0bGRIODVqdm1VWkV0c0ZMTnV0a3N1MWM9ZQAAAAASsAEIBxKrAQocVU1pZkFsOTQzbVNOcGs1ZFB1aENUZzd0SmJJPRIkNDdmNzBmY2EtYTg5Mi00Yzc4LTg4NDgtMGM2ODYzN2ViODQwGAAgAigCMJnZtoXUMTiDqKaLyTBAq6C1hdQxShxEbXRyd09JZUNDeUFFeGlCaXIzUjd0QUQ1MXc9WiciJf////8AAAAE+2M2aGpma0tleUxxbFNCT2RKWlhuNk5nQmZMcz1lbLbK3hKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRlMWU5MDBhOC1mODE4LTU4OGItOGFhZS0zYzFiMzMzMmI5NDEYACAAKAAwlaHE/bAwOMbBpOLsL0DGwaTi7C9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDkyYzkzNzE3LWE4MzktNWRhMi1iMDQwLWRmNWZlZTY3ZWIyZhgAIAAoADCVocT9sDA41sGk4uwvQNbBpOLsL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkNWY4OWYxMTQtZGM0ZS01NTNjLWI4Y2QtODRlZjhiMzE0MzhiGAAgACgAMJWhxP2wMDiUwqTi7C9AlMKk4uwvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
+   "version": 1
+}
